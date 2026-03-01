@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Trang-1" id="cFhih-o40dyEuGCiK7e1">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="HRMO-Admin" vertex="1">
+          <mxGeometry height="60" width="30" x="510" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Trưởng Phòng" vertex="1">
+          <mxGeometry height="60" width="30" x="510" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Nhân Viên" vertex="1">
+          <mxGeometry height="60" width="30" x="510" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Đăng nhập/Đăng xuất" vertex="1">
+          <mxGeometry height="40" width="160" x="680" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Xem hồ sơ cá nhân" vertex="1">
+          <mxGeometry height="40" width="160" x="700" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Check in/Check out" vertex="1">
+          <mxGeometry height="40" width="140" x="710" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Xem lịch sử" vertex="1">
+          <mxGeometry height="30" width="120" x="730" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tạo đơn xin nghỉ" vertex="1">
+          <mxGeometry height="30" width="140" x="730" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Hủy đơn nghỉ" vertex="1">
+          <mxGeometry height="30" width="140" x="720" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Xem hợp đồng" vertex="1">
+          <mxGeometry height="30" width="140" x="720" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Dashboard" vertex="1">
+          <mxGeometry height="30" width="140" x="720" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Duyệt chấm công" vertex="1">
+          <mxGeometry height="30" width="140" x="260" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Duyệt đơn nghỉ" vertex="1">
+          <mxGeometry height="30" width="140" x="260" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="VzRqUioeCwDZEVX_pGZ0-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Thêm/ Sửa/ Xóa nhân viên" vertex="1">
+          <mxGeometry height="30" width="180" x="700" y="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
