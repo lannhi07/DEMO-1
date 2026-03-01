@@ -1,45 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="28.2.9">
-  <diagram name="Trang-1" id="Wqa3N2UaAXVgFMRs339O">
-    <mxGraphModel dx="1426" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Trang-1" id="cFhih-o40dyEuGCiK7e1">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-1" value="Quản trị viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="110" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-2" value="&lt;br&gt;&lt;div&gt;Trưởng phòng&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="370" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-3" value="Nhân viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="590" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-5" value="UC1. Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="40" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-6" value="UC2. Quản lý nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="110" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-7" value="UC3.&amp;nbsp;Import/Export Excel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="180" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-8" value="UC4.&amp;nbsp;Quản lý Hợp đồng &amp;amp; Quyết định" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-9" value="UC5.&amp;nbsp;Cấu hình &amp;amp; Phân quyền" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="300" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-10" value="UC6.&amp;nbsp;Duyệt đơn nghỉ phép" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="370" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-11" value="UC7.&amp;nbsp;Xem danh sách nhân viên phòng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="430" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-12" value="UC8.&amp;nbsp;Xem hồ sơ cá nhân" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YPmQEJxSSoLwA-Kup-lj-13" value="UC9.&amp;nbsp;Gửi đơn nghỉ phép" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="630" width="220" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
